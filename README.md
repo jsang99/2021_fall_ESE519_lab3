@@ -4,11 +4,16 @@ NOTE: I created this repo for lab3 submission. I could not use the link in the m
 
 * Dependencies:
 
-#include <Arduino.h>
+#include <Arduino.h> 
+
 #include <avr/io.h>
+
 #include <avr/interrupt.h>
+
 #include <stdio.h>
+
 #include <stdbool.h>
+
 #include <util/delay.h>
 
 #include "uart.h"
